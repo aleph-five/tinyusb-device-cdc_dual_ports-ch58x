@@ -1,0 +1,14 @@
+Toolchain=
+Series=
+Description=
+Address=0x00000000
+Erase All=true
+Program=true
+Verify=true
+Reset=true
+
+Vendor=WCH
+MCU=CH582M
+Mcu Type=CH58x
+Link=WCH-Link
+Target Path=obj/tinyusb-device-cdc_dual_ports-ch58x.hex
